@@ -1,1 +1,2 @@
-
+require('./michal');
+require('./mawnie');
